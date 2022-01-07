@@ -11,8 +11,16 @@ h1 {
   margin: 2%;
 }
 
-img {
+/* img {
   float: right;
   margin-top: 5%;
   margin-right: 2%;
-}
+  position: absolute;
+  right: 10%;
+} */
+
+/* .projects {
+  background-color: white;
+  padding: 10%;
+  float: right;
+} */
