@@ -7,3 +7,9 @@ h1 {
   padding: 2%;
   margin: 2%;
 }
+
+img {
+  float: right;
+  margin-top: 5%;
+  margin-right: 2%;
+}
