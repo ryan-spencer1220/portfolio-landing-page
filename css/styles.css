@@ -13,14 +13,13 @@ h1 {
 
 /* img {
   float: right;
-  margin-top: 5%;
-  margin-right: 2%;
-  position: absolute;
-  right: 10%;
 } */
 
-/* .projects {
-  background-color: white;
-  padding: 10%;
+.profile-image {
+  border-radius: 4px;
   float: right;
-} */
+  width: 150px;
+  height: 150px;
+  padding-top: 2%;
+  padding-right: 16%;
+}
