@@ -13,13 +13,12 @@ h1 {
   background-color: rgb(233, 233, 233);
 }
 
+.card-body {
+  background-color: white;
+}
+
 .profile-image {
-  border-radius: 50%;
-  float: right;
-  width: 150px;
-  height: 150px;
-  padding-top: 2%;
-  padding-right: 16%;
+  float: none;
 }
 
 .project-image {
