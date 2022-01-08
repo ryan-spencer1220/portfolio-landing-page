@@ -22,7 +22,7 @@ _Portfolio landing page outlining work history, education, completed projects, i
 
   _OR_
 
-* Navigate Here: https://github.com/ryan-spencer1220/light-dark-mode-portfolio
+* Navigate Here: https://ryan-spencer1220.github.io/portfolio-landing-page/
 
 ## Known Bugs
 
